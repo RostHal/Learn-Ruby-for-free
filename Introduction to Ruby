@@ -1,9 +1,15 @@
+                   About Ruby:
+
 Ruby is a dynamic, object-oriented and interpreted programming language.
 high level. The basic philosophy behind Ruby's design comes down to a quote from its creator:
 "Ruby is for making programmers happy."
 The main value of Ruby is to create powerful and understandable programs,
  where it is not so much the speed of the program that is important as the short development time,
  clarity and simplicity of syntax.
+ 
+ 
+                  Ruby's story:
+                  
 
  Ruby started in 1993 24
  February by the Japanese Yukihiro Matsumoto,
@@ -22,6 +28,7 @@ The main value of Ruby is to create powerful and understandable programs,
  Ruby on Rails is a framework that includes prepared functionality for a solution
  challenges facing modern web specialists. the main thing
  whose advantage is the speed of development.
+ 
 
 Pros of Ruby:
 
@@ -33,11 +40,11 @@ Pros of Ruby:
 
 Cons of Ruby:
 
-
 * Ruby is less efficient than Python.
 * The language was originally created for Linux.
 * Ruby programming vacancies are sufficient only on the Ruby on Rails platform.
 * Projects built with Ruby will require a huge amount of memory.
+
 
 Applying Ruby to More Global Projects:
 
