@@ -51,7 +51,14 @@ Install for Ruby на Solaris and OpenIndiana   :
         $ pkg install runtime/ruby-18
         
         
-        
+  #      
       
 
+You can install Ruby from source. Download and unzip the archive, then just run:
+https://www.ruby-lang.org/ru/downloads/
+
+
+            $ ./configure
+            $ make
+            $ sudo make install
 
