@@ -39,12 +39,12 @@ free open source text editor for Linux, macOS, Windows with plugin support
 
 Pros:
 * Is free.
-* Cross-platform. Works on Mac, Windows and Linux.
-* Instant file switching. Use a fuzzy search to search for a file in your project.
-* Themes. Customize the theme for every taste.
-* Packages. Atom has a built-in package manager. ...
-* Command line.
-* With GitHub
+* Cross-platform. Works on Mac, Windows and Linux;
+* Instant file switching. Use a fuzzy search to search for a file in your project;
+* Themes. Customize the theme for every taste;
+* Packages. Atom has a built-in package manager;
+* Command line;
+* With GitHub;
 
 Best plugin for writing code:
 TabNine. With this plugin, you will write code quickly, clearly, neatly, and in a safe way.
