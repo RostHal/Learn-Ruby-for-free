@@ -24,5 +24,7 @@ Linux and macOS. It is positioned as a "light" code editor for cross-platform de
 Also VScode supports not a small number of languages
 
 
-
+Best plugin for writing code:
+TabNine. With this plugin, you will write code quickly, clearly, neatly, and in a safe way.
+Install TabNine: https://www.tabnine.com/install
 
