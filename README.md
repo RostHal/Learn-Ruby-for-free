@@ -1,5 +1,5 @@
 # Learn-Ruby-for-free
-Welcome to my project on GitHub. In this project, you can learn Ruby. Every day my project will be updated and new entries will be added.
+Hello everyone, my name is Rostislav. I haven't edited this repository for a long time. I am not a professional Ruby programmer. I wrote this repository when I was interested in the Ruby language. So don't judge too harshly :). If you are already an experienced Ruby programmer, you may find bugs and bugs.
+If you find a bug or want to help me, please email me: halrost2008@gmail.com
+I wish you all a good mood!
 
-Found the bug? 
-Write to me: Discord: Rostik#4988
